@@ -1,0 +1,43 @@
+.carousel-inner{
+    position: relative;
+}
+.carousel-inner img {
+    max-width: 100%;
+    height: auto;
+}
+.info{
+    position: absolute;
+    top: 40%;
+    color: black;
+    padding: 20px;
+}
+
+.info h3 {
+    font-size: 40px;
+    margin-bottom: 5px;
+    
+}
+h2{
+    font-size: 34px;
+}
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+main{
+    width: 70%;
+    height: 500px;
+    margin-top: 100px;
+    margin: auto;
+    box-shadow: 0px 0px 3px gray;
+}
+p{
+    font-size: 16px;
+    width: 40%;
+    padding: 10px;
+}
+.tittle h2 span{
+    color: blue;
+}
